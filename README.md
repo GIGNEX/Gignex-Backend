@@ -9,7 +9,7 @@ GIGNEX: Deep-Space Freelance Escrow Platform
   \______/ |______| \______| |__| \__| |_______|/__/ \__\ 
 ```
 
-**Gignex** (formerly Galactic Gig) is a futuristic, decentralized freelance marketplace designed for the Stellar ecosystem. It allows intergalactic clients (**Captains**) to hire spacefaring professionals (**Crew Members**) for complex mission tasks (**Gigs**). 
+**Gignex** is a futuristic, decentralized freelance marketplace designed for the Stellar ecosystem. It allows intergalactic clients (**Captains**) to hire spacefaring professionals (**Crew Members**) for complex mission tasks (**Gigs**). 
 
 The platform guarantees trust, accountability, and secure payments using custom milestone-based **Soroban Smart Escrow Contracts**, backed by off-chain indexing services and a next-generation galaxy dashboard.
 
